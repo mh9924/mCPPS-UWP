@@ -1,6 +1,0 @@
-MainPackage=C:\Users\xmatt\Documents\Visual Studio 2017\Projects\App5\App5\bin\ARM\Release\mCPPS_3.1.4.0_ARM.appx
-SymbolPackage=C:\Users\xmatt\Documents\Visual Studio 2017\Projects\App5\App5\AppPackages\mCPPS_3.1.4.0_Test\mCPPS_3.1.4.0_ARM.appxsym
-ResourcePack=C:\Users\xmatt\Documents\Visual Studio 2017\Projects\App5\App5\bin\ARM\Release\mCPPS_3.1.4.0_scale-100.appx
-ResourcePack=C:\Users\xmatt\Documents\Visual Studio 2017\Projects\App5\App5\bin\ARM\Release\mCPPS_3.1.4.0_scale-125.appx
-ResourcePack=C:\Users\xmatt\Documents\Visual Studio 2017\Projects\App5\App5\bin\ARM\Release\mCPPS_3.1.4.0_scale-150.appx
-ResourcePack=C:\Users\xmatt\Documents\Visual Studio 2017\Projects\App5\App5\bin\ARM\Release\mCPPS_3.1.4.0_scale-400.appx
