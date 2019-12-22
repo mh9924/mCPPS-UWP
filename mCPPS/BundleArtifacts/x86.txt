@@ -1,2 +1,0 @@
-MainPackage=C:\Users\xmatt\Documents\Visual Studio 2017\Projects\mCPPS\mCPPS_3.1.4.0_x86.appx
-SymbolPackage=C:\Users\xmatt\Documents\Visual Studio 2017\Projects\App5\App5\AppPackages\mCPPS_3.1.4.0_Test\mCPPS_3.1.4.0_x86.appxsym
