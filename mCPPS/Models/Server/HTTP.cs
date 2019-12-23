@@ -16,10 +16,10 @@ namespace mCPPS.Models
 {
     class HTTP : MattsCPPS
     {
-		/* You must enter the URL of a media server to cache from if using built-in web server. 
-		My modified boots.swf must be on the root of said server.
-		https://github.com/mh9924/boots
-		*/
+	/* You must enter the URL of a media server to cache from if using built-in web server. 
+	My modified boots.swf must be on the root of said server.
+	https://github.com/mh9924/boots
+	*/
         private const string cache_server = "~ URL HERE ~";
 
         private StorageFolder local_folder = ApplicationData.Current.LocalFolder;
@@ -102,11 +102,11 @@ namespace mCPPS.Models
                     }
 
                     
-					/* Check if file is cached locally. 
-					If it is not, download it from the master cache_server first.
-					If it is, send it to user from cache.
-					*/
-					try
+		    /* Check if file is cached locally. 
+		    If it is not, download it from the master cache_server first.
+		    If it is, send it to user from cache.
+		    */
+		    try
                     {
                         StorageFile file = await local_folder.GetFileAsync("Www\\" + request[1].Replace("/", "\\"));
                         await ReplyFileData(socket, file, allowed_extensions[extension]);
