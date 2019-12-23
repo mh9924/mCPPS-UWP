@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mCPPS", "App5\mCPPS.csproj", "{12888304-A42C-4E18-93A9-69FC5D3119A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mCPPS", "mCPPS\mCPPS.csproj", "{12888304-A42C-4E18-93A9-69FC5D3119A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
