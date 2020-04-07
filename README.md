@@ -1,4 +1,4 @@
-# mCPPS-UWP
+# mCPPS-UWP ![](data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0Ab3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93cyBpY29uPC90aXRsZT48cGF0aCBkPSJNMCAzLjQ0%0D%0AOUw5Ljc1IDIuMXY5LjQ1MUgwbTEwLjk0OS05LjYwMkwyNCAwdjExLjRIMTAuOTQ5TTAgMTIuNmg5%0D%0ALjc1djkuNDUxTDAgMjAuNjk5TTEwLjk0OSAxMi42SDI0VjI0bC0xMi45LTEuODAxIi8+PC9zdmc+ =25x25)
 UI-based Club Penguin server emulator written in Universal Windows Platform C#
 
 Most emulator-relevant code is in Models folder
