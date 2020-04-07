@@ -5,5 +5,5 @@ Most emulator-relevant code is in Models folder
 
 # Features
 * No need for an external database server installation, but MySQL can still be used if desired
-* Mediaserver download not required - auto-downloads and caches CP mediaserver files as needed from [icer.ink](https://icer.ink/) or locally
+* Mediaserver download not required - auto-downloads and caches CP mediaserver files as needed from [icer.ink](https://icer.ink/), another site, or locally
 * No need to setup the register or loader. An optional internal register and widd's boots loader are automatically setup alongside your website
